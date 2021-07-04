@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "33614300247",
+    "project_id": "test-bd594",
+    "storage_bucket": "test-bd594.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33614300247:android:77a4752ba0018b93150f12",
+        "android_client_info": {
+          "package_name": "com.aditya.flutter_app_ceri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33614300247-vhkrh642ntotqjhr6lr8cht83n1csa2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoOv6TdvxmSywSeR4thVacVQ9WLMcndtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33614300247-vhkrh642ntotqjhr6lr8cht83n1csa2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
